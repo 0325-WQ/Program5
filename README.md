@@ -1,7 +1,8 @@
 # ID y Version de JDK
 La version del JDK es 17.0.12
 Utilizando un ID llamado eclipse ID for Java Developers
-<img width="761" height="453" alt="Image" src="https://github.com/user-attachments/assets/c634e7cd-4ddf-4656-a1ce-4636e8a197e0" />
+
+<img width="732" height="312" alt="Image" src="https://github.com/user-attachments/assets/82294a53-639b-4faa-94de-7fe6ded32eb0" />
 
 ## Como ejecutar
 Una vez descargado los instaladores del JDK Y el ID se procede a ejecutar como administrador 
